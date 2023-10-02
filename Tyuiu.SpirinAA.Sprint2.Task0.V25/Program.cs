@@ -49,7 +49,7 @@ namespace Tyuiu.SpirinAA.Sprint2.Task0.V25
                 Console.WriteLine(res[i]);
             }
 
-            Console.ReadKey();
+            Console.ReadKey();        
         }
     }
 }
