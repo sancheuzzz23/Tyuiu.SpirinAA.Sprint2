@@ -29,7 +29,7 @@ namespace Tyuiu.SpirinAA.Sprint2.Task2.V9
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
-            Console.WriteLine("***************************************************************************");
+            Console.WriteLine("***************************************************************************");   
 
             Console.WriteLine("Введите значение переменной X: ");
             int x = Convert.ToInt32(Console.ReadLine());
