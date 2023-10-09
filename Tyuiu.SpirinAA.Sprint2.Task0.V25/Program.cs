@@ -46,7 +46,7 @@ namespace Tyuiu.SpirinAA.Sprint2.Task0.V25
 
             for (int i=0; i<6; i++)
             {
-                Console.WriteLine(res[i]);  
+                Console.WriteLine(res[i]);
             }
 
             Console.ReadKey();        
